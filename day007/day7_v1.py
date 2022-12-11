@@ -1,3 +1,7 @@
+'''
+Fails to work if directories have same name
+'''
+
 # imports
 from treelib import Tree
 
